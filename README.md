@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeffrey125
 - 👀 I’m interested in Programming, Going to the Gym and Playing games during my free time
 - 🌱 I’m currently learning Web Development
-- 💞️ Someday I'll become a Full stack Web Developer :D
+- ❗ Someday I'll become a Full stack Web Developer 💪
 
 <!---
 jeffrey125/jeffrey125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
