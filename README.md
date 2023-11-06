@@ -2,7 +2,7 @@
 
 👀 I’m interested in Programming, Going to the Gym and Playing games during my free time
 
-🌱 I’m currently a Junior Software Engineer at Carconnect PTY LTD.
+🌱 I’m currently a Software Engineer at The Volte.
 
 ❗ I'm open for collaborations related to web development and I'm open for unique ideas that help other developers with their needs. 💪
 
